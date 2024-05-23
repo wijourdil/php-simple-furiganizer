@@ -7,7 +7,7 @@
 This package is a simple tool to generate japanese text with furigana for a given word and reading.
 
 <pre style="font-size: 20px">
-<ruby>雨の日<rt>Text</rt></ruby> + <ruby>あめのひ<rt>Reading</rt></ruby> &rArr; <ruby>雨<rp>(</rp><rt>あめ</rt><rp>)</rp>の</ruby><ruby>日<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby>
+<ruby>雨の日<rp>(</rp><rt>Text</rt><rp>)</rp></ruby> + <ruby>あめのひ<rp>(</rp><rt>Reading</rt><rp>)</rp></ruby> &rArr; <ruby>雨<rp>(</rp><rt>あめ</rt><rp>)</rp>の</ruby><ruby>日<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby>
 </pre>
 
 ## Installation
