@@ -2,7 +2,6 @@
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/wijourdil/php-simple-furiganizer.svg)](https://packagist.org/packages/wijourdil/php-simple-furiganizer)
 [![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/wijourdil/php-simple-furiganizer/run-tests.yml?branch=main&label=tests)](https://github.com/wijourdil/php-simple-furiganizer/actions?query=workflow%3Arun-tests+branch%3Amain)
-[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/wijourdil/php-simple-furiganizer/fix-php-code-style-issues.yml?label=code%20style&branch=main)](https://github.com/wijourdil/php-simple-furiganizer/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/wijourdil/php-simple-furiganizer.svg)](https://packagist.org/packages/wijourdil/php-simple-furiganizer)
 
 This package is a simple tool to generate japanese text with furigana for a given word and reading.
